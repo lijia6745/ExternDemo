@@ -1,0 +1,4 @@
+ExternDemo
+==========
+
+something about "extern"
